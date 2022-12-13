@@ -41,17 +41,17 @@
 	  Type:: [/[Teammember]]
 	  name::
 	  location::
-	  next birthday:: 
-	  work anniversary:: 
+	  next-birthday:: 
+	  work-anniversary:: 
 	  career-goals::
 	  superpowers:: 
 	  hobbies-etc::
 	  targets::
-	  preference-for-praise (public, private, etc)::
+	  preference-for-praise::
 	  notes:: 
 	  kudos:: 
-	  areas for growth::
-	  other notes::
+	  areas-for-growth::
+	  other-notes::
 - # Meeting Template
   template:: One-on-One Template
   template-including-parent:: false
@@ -63,7 +63,7 @@
 	  Topic:: 
 	  Project:: 
 	  Area:: 
-	  Link to Notes/Minutes:: 
+	  Notes-Minutes:: 
 	  Tags::
 	- ## Notes
 	- ## Actions
@@ -163,10 +163,10 @@ collapsed:: true
 	- ## Wins
 	-
 - # Conference Talk Template
-- Template Conference Talk template
-  template-including-parent: false
+  template:: Conference Talk Template
+  template-including-parent:: false
 	- ## Meta
-		- Type:: [[Conference Talk]]
+		- Type:: [/[Conference Talk]]
 		  title:: 
 		  speaker:: 
 		  conference:: 

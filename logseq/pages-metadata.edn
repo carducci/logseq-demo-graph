@@ -7,12 +7,21 @@
  {:block/name "abstract",
   :block/created-at 1670872929373,
   :block/updated-at 1670872929373}
+ {:block/name "archconf",
+  :block/created-at 1670890224107,
+  :block/updated-at 1670890224107}
+ {:block/name "archconf 2022 conference talks",
+  :block/created-at 1670890473903,
+  :block/updated-at 1670890560945}
  {:block/name "area",
   :block/created-at 1670876070930,
   :block/updated-at 1670876070930}
  {:block/name "areas",
   :block/created-at 1670875854776,
   :block/updated-at 1670875854776}
+ {:block/name "areas-for-growth",
+  :block/created-at 1670890756258,
+  :block/updated-at 1670890756258}
  {:block/name "attendees",
   :block/created-at 1670876055120,
   :block/updated-at 1670876055120}
@@ -22,9 +31,9 @@
  {:block/name "b",
   :block/created-at 1670526365136,
   :block/updated-at 1670526365136}
- {:block/name "ben",
-  :block/created-at 1670619409133,
-  :block/updated-at 1670619409133}
+ {:block/name "basb",
+  :block/created-at 1670890341157,
+  :block/updated-at 1670890341157}
  {:block/name "bicycle for the mind",
   :block/created-at 1670875734235,
   :block/updated-at 1670875734235}
@@ -46,6 +55,12 @@
  {:block/name "card",
   :block/created-at 1670526365136,
   :block/updated-at 1670526365136}
+ {:block/name "career-goals",
+  :block/created-at 1670890756253,
+  :block/updated-at 1670890756253}
+ {:block/name "clearwater, fl",
+  :block/created-at 1670890224108,
+  :block/updated-at 1670890224108}
  {:block/name "conference",
   :block/created-at 1670872929355,
   :block/updated-at 1670872929355}
@@ -61,42 +76,21 @@
  {:block/name "date",
   :block/created-at 1670872929370,
   :block/updated-at 1670872929370}
- {:block/name "dec 10th, 2022",
-  :block/created-at 1670619299166,
-  :block/updated-at 1670619299166}
  {:block/name "dec 11th, 2022",
   :block/created-at 1670774371996,
   :block/updated-at 1670774371996}
  {:block/name "dec 12th, 2022",
-  :block/created-at 1670855571896,
-  :block/updated-at 1670855571896}
+  :block/created-at 1670877782183,
+  :block/updated-at 1670877782183}
  {:block/name "dec 13th, 2022",
-  :block/created-at 1670540039130,
-  :block/updated-at 1670540039130}
- {:block/name "dec 15th, 2022",
-  :block/created-at 1670540165254,
-  :block/updated-at 1670540165254}
- {:block/name "dec 1st, 2022",
-  :block/created-at 1670855638466,
-  :block/updated-at 1670855638466}
- {:block/name "dec 2nd, 2022",
-  :block/created-at 1670855640312,
-  :block/updated-at 1670855640312}
- {:block/name "dec 5th, 2022",
-  :block/created-at 1670855636121,
-  :block/updated-at 1670855636121}
- {:block/name "dec 6th, 2022",
-  :block/created-at 1670855641880,
-  :block/updated-at 1670855641880}
- {:block/name "dec 7th, 2022",
-  :block/created-at 1670855643494,
-  :block/updated-at 1670855643494}
- {:block/name "dec 8th, 2022",
-  :block/created-at 1670855645060,
-  :block/updated-at 1670855645060}
- {:block/name "dec 9th, 2022",
-  :block/created-at 1670855624892,
-  :block/updated-at 1670855624892}
+  :block/created-at 1670890224107,
+  :block/updated-at 1670890224107}
+ {:block/name "denver, co",
+  :block/created-at 1670890627747,
+  :block/updated-at 1670890627747}
+ {:block/name "dev-journal",
+  :block/created-at 1670890358148,
+  :block/updated-at 1670890358148}
  {:block/name "doing",
   :block/created-at 1670526365136,
   :block/updated-at 1670526365136}
@@ -115,9 +109,6 @@
  {:block/name "file-path",
   :block/created-at 1670620802322,
   :block/updated-at 1670620802322}
- {:block/name "finding signal in the noise",
-  :block/created-at 1670619263654,
-  :block/updated-at 1670619263654}
  {:block/name "format",
   :block/created-at 1670526470498,
   :block/updated-at 1670526470498}
@@ -130,15 +121,27 @@
  {:block/name "hls__fielding_dissertation_1670620785885_0",
   :block/created-at 1670620802319,
   :block/updated-at 1670620802319}
+ {:block/name "hobbies-etc",
+  :block/created-at 1670890756254,
+  :block/updated-at 1670890756254}
  {:block/name "in-progress",
   :block/created-at 1670526365136,
   :block/updated-at 1670526365136}
  {:block/name "inbox",
   :block/created-at 1670526470539,
   :block/updated-at 1670526470539}
+ {:block/name "jul 10th, 2023",
+  :block/created-at 1670890627745,
+  :block/updated-at 1670890627745}
  {:block/name "kindle",
   :block/created-at 1670875734219,
   :block/updated-at 1670875734219}
+ {:block/name "knowledge-management",
+  :block/created-at 1670890346207,
+  :block/updated-at 1670890346207}
+ {:block/name "kudos",
+  :block/created-at 1670890756257,
+  :block/updated-at 1670890756257}
  {:block/name "later",
   :block/created-at 1670526365136,
   :block/updated-at 1670526365136}
@@ -151,21 +154,39 @@
  {:block/name "logseq",
   :block/created-at 1670875734222,
   :block/updated-at 1670875734222}
- {:block/name "logseq talk",
-  :block/created-at 1670875734234,
-  :block/updated-at 1670875734234}
+ {:block/name "michael carducci",
+  :block/created-at 1670890205033,
+  :block/updated-at 1670890701535}
  {:block/name "name",
   :block/created-at 1670526660183,
   :block/updated-at 1670526660183}
+ {:block/name "next-birthday",
+  :block/created-at 1670890701532,
+  :block/updated-at 1670890701532}
  {:block/name "non-fiction",
   :block/created-at 1670875734218,
   :block/updated-at 1670875734218}
+ {:block/name "notes",
+  :block/created-at 1670890723375,
+  :block/updated-at 1670890723375}
+ {:block/name "notes-minutes",
+  :block/created-at 1670890730598,
+  :block/updated-at 1670890730598}
+ {:block/name "notes/minutes",
+  :block/created-at 1670890723372,
+  :block/updated-at 1670890723372}
+ {:block/name "notetaking",
+  :block/created-at 1670890358149,
+  :block/updated-at 1670890358149}
  {:block/name "now",
   :block/created-at 1670526365136,
   :block/updated-at 1670526365136}
  {:block/name "objective",
   :block/created-at 1670876055113,
   :block/updated-at 1670876055113}
+ {:block/name "other-notes",
+  :block/created-at 1670890756258,
+  :block/updated-at 1670890756258}
  {:block/name "para",
   :block/created-at 1670875734239,
   :block/updated-at 1670875734239}
@@ -175,12 +196,30 @@
  {:block/name "pkm",
   :block/created-at 1670875734220,
   :block/updated-at 1670875734220}
+ {:block/name "pkm - logseq methods & madness",
+  :block/created-at 1670890015912,
+  :block/updated-at 1670890398867}
+ {:block/name "preference-for-praise",
+  :block/created-at 1670890756255,
+  :block/updated-at 1670890756255}
+ {:block/name "productivity",
+  :block/created-at 1670890358149,
+  :block/updated-at 1670890358149}
+ {:block/name "professional-development",
+  :block/created-at 1670890364032,
+  :block/updated-at 1670890364032}
  {:block/name "project",
   :block/created-at 1670876068845,
   :block/updated-at 1670876068845}
  {:block/name "read",
   :block/created-at 1670875734211,
   :block/updated-at 1670875734211}
+ {:block/name "reading list",
+  :block/created-at 1670890487360,
+  :block/updated-at 1670890524487}
+ {:block/name "social",
+  :block/created-at 1670890701534,
+  :block/updated-at 1670890701534}
  {:block/name "speaker",
   :block/created-at 1670872929350,
   :block/updated-at 1670872929350}
@@ -190,21 +229,21 @@
  {:block/name "status",
   :block/created-at 1670526470493,
   :block/updated-at 1670526470493}
+ {:block/name "superpowers",
+  :block/created-at 1670890756254,
+  :block/updated-at 1670890756254}
  {:block/name "tags",
   :block/created-at 1670526470500,
   :block/updated-at 1670526470500}
+ {:block/name "targets",
+  :block/created-at 1670890756255,
+  :block/updated-at 1670890756255}
  {:block/name "team",
   :block/created-at 1670875833487,
   :block/updated-at 1670875833487}
- {:block/name "teammember",
-  :block/created-at 1670540086931,
-  :block/updated-at 1670540086931}
  {:block/name "template",
   :block/created-at 1670526346155,
-  :block/updated-at 1670876071786}
- {:block/name "template-including-parent",
-  :block/created-at 1670872769955,
-  :block/updated-at 1670872769955}
+  :block/updated-at 1670890756259}
  {:block/name "tiago forte",
   :block/created-at 1670875734212,
   :block/updated-at 1670875734212}
@@ -226,6 +265,9 @@
  {:block/name "waiting",
   :block/created-at 1670526365136,
   :block/updated-at 1670526365136}
+ {:block/name "work-anniversary",
+  :block/created-at 1670890756252,
+  :block/updated-at 1670890756252}
  {:block/name "year",
   :block/created-at 1670526470497, 
   :block/updated-at 1670526470497}]
