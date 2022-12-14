@@ -53,7 +53,7 @@
 	  areas-for-growth::
 	  other-notes::
 - # Meeting Template
-  template:: One-on-One Template
+  template:: Meeting Template
   template-including-parent:: false
 	- ## Meta
 	  Type:: [/[Meeting]]
