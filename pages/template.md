@@ -31,7 +31,7 @@
 	  Tags::
 	- ## Project Kickoff Checklist
 	- ## Tasks
-	- ## Resources
+	- ## Team Members
 	- ## Notes
 - # Team Member
   template:: Team Member Template
