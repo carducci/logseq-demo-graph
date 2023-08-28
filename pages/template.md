@@ -152,25 +152,6 @@ collapsed:: true
 		  logseq.order-list-type:: number
 	- ## Happiest event this week
 	-
-- # Meeting
-  template:: Meeting Template
-  collapsed:: true
-  template-including-parent: false
-	- ## Meta
-	  Type:: [/[Meeting]]
-	  Parent::
-	  para:-areas::
-	  Date:: <% today %>
-	  Objective:: 
-	  Attendees::
-	  Topic::
-	  Project::
-	  Tags::
-	- ## Notes
-		-
-	- ## Actions
-		-
-	- ## Next Meeting
 - # Conference Talk Template
   template:: Conference Talk Template
   template-including-parent:: false
