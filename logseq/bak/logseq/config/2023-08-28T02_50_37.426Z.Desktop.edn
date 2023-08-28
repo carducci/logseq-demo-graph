@@ -209,7 +209,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["para: projects" "para projects" "para: areas" "para: resources" "reading list" "logseq" "projects" "how to take dummy notes?"]
+ :favorites ["logseq" "para: projects" "para projects" "para: areas" "para: resources" "reading list" "projects" "how to take dummy notes?"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

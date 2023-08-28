@@ -1,10 +1,10 @@
-- # Books
-  template:: Book Template
-  template-including-parent:: false
-  collapsed:: true
+# Books
+template:: Book Template
+template-including-parent:: false
+collapsed:: true
 	- ## Meta
 	  Type:: [/[Books]]
-	  Status:: 
+	  Status:: [/[Reading]] [/[Read]] [/[books-to-read]]
 	  Cover:: ![image](){:height 172, :width 98}
 	  Title:: 
 	  Author:: 
@@ -15,24 +15,48 @@
 	  Genre::
 	  Format::
 	  Tags::
-	- ## Content
+	- ## Content/Notes
 - # Project
   template:: Project Template
   template-including-parent:: false
+  collapsed:: true
 	- ## Meta
 	  Type:: [/[Project]]
-	  Status:: 
+	  Status:: [/[New]] [/[Planned]] [/[Active]] [/[Complete]] [/[Archive]]
 	  Team:: 
+	  Lead:: 
 	  Goals:: 
 	  Start:: 
-	  End:: 
-	  Year:: 
-	  Areas::
+	  End::  
+	  areas::
 	  Tags::
+	- ## Objective
+	- ## Scope
 	- ## Project Kickoff Checklist
 	- ## Tasks
+		- {{query (and <% current page %> (task LATER))}}
 	- ## Resources
 	- ## Notes
+- # Areas
+  template:: Areas Template
+  template-including-parent:: false
+	- ## Tasks
+		- {{query (and <% current page %> (task LATER) )}}
+	- ## Notes
+- # Resource
+  template:: Resource Template
+  template-including-parent:: false
+	- ## Meta
+	  Type:: [/[Resource]]
+	  Status:: [/[Active]] [/[Archive]]
+	  Description:: 
+	  Tags::
+	- ## Books
+	- ## Web Resources
+	- ## Videos
+	- ## Notes
+	- ## Flashcards
+		- {{cards <% current page %> }}
 - # Team Member
   template:: Team Member Template
   template-including-parent:: false
@@ -51,28 +75,28 @@
 	  notes:: 
 	  kudos:: 
 	  areas-for-growth::
-	  other-notes::
+	- ## Notes
 - # Meeting Template
   template:: Meeting Template
   template-including-parent:: false
 	- ## Meta
 	  Type:: [/[Meeting]]
+	  Parent:: 
+	  Areas::
 	  Date:: 
 	  Objective:: 
 	  Attendees:: 
 	  Topic:: 
 	  Project:: 
-	  Area:: 
-	  Notes-Minutes:: 
 	  Tags::
 	- ## Notes
 	- ## Actions
 	- ## Next Meeting
 	-
-# 1:1 Template
-template:: One-on-One Template
-template-including-parent:: false
-collapsed:: true
+- # 1:1 Template
+  template:: One-on-One Template
+  template-including-parent:: false
+  collapsed:: true
 	- ## Check-in (5 mins)
 		-
 	- ## Recent Work Recap (10 min)
@@ -80,7 +104,7 @@ collapsed:: true
 	- ## Upcoming Work
 	-
 	- ## Action Items
-- # Daily Journal
+- # Daily Journal (light)
   template:: Daily Journal Template
   template-including-parent:: false
   collapsed:: true
@@ -90,55 +114,8 @@ collapsed:: true
 		- ### TODO 1.
 		- ### TODO 2.
 		- ### TODO 3.
-	- ## Timeboxing
-		- ### 6:00
-			- TODO 6:00-6:30:
-			- TODO 6:30-7:00:
-		- ### 7:00
-			- TODO 7:00-7:30:
-			- TODO 7:30-8:00:
-		- ### 8:00
-			- TODO 8:00-8:30:
-			- TODO 8:30-9:00:
-		- ### 9:00
-			- TODO 9:00-9:30:
-			- TODO 9:30-10:00:
-		- ### 10:00
-			- TODO 10:00-10:30:
-			- TODO 10:30-11:00:
-		- ### 11:00
-			- TODO 11:00-11:30:
-			- TODO 11:30-12:00:
-		- ### 12:00
-			- TODO 12:00-12:30:
-			- TODO 12:30-1:00:
-		- ### 1:00
-			- TODO 1:00-1:30:
-			- TODO 1:30-2:00:
-		- ### 2:00
-			- TODO 2:00-2:30:
-			- TODO 2:30-3:00:
-		- ### 3:00
-			- TODO 3:00-3:30:
-			- TODO 3:30-4:00:
-		- ### 4:00
-			- TODO 4:00-4:30:
-			- TODO 4:30-5:00:
-		- ### 5:00
-			- TODO 5:00-5:30:
-			- TODO 5:30-6:00:
-		- ### 6:00
-			- TODO 6:00-6:30:
-			- TODO 6:30-7:00:
-		- ### 7:00
-			- TODO 7:00-7:30:
-			- TODO 7:30-8:00:
-		- ### 8:00
-			- TODO 8:00-8:30:
-			- TODO 8:30-9:00:
-		- ### 9:00
-			- TODO 9:00-9:30:
-			- TODO 9:30-10:00:
+	- ## Notes/Activity
+	-
 	- ## [[inbox]]
 		-
 	- ## Don't Forget
@@ -152,19 +129,52 @@ collapsed:: true
   template:: Weekly Review Template
   template-including-parent:: false
   collapsed:: true
+	- ## Habit/Activity Tracking
 	- ## Summary of This Week's Notes
 		- ### Patterns
 		- ### Incidents
 		- ### Discoveries
+	- ## How was time spent this week re [[goals]]
+		-
+	- ## How will you improve next week?
+		-
+	- ## Biggest Lesson Learned This Week
 	- ## Reflection
 		- ### Highs
 		- ### Lows
 		- ### Memories
-	- ## Wins
+	- ## 3 Big Wins for the Week
+		- -
+		  logseq.order-list-type:: number
+		- -
+		  logseq.order-list-type:: number
+		- -
+		  logseq.order-list-type:: number
+	- ## Happiest event this week
 	-
+- # Meeting
+  template:: Meeting Template
+  collapsed:: true
+  template-including-parent: false
+	- ## Meta
+	  Type:: [/[Meeting]]
+	  Parent::
+	  para:-areas::
+	  Date:: <% today %>
+	  Objective:: 
+	  Attendees::
+	  Topic::
+	  Project::
+	  Tags::
+	- ## Notes
+		-
+	- ## Actions
+		-
+	- ## Next Meeting
 - # Conference Talk Template
   template:: Conference Talk Template
   template-including-parent:: false
+  collapsed:: true
 	- ## Meta
 		- Type:: [/[Conference Talk]]
 		  title:: 
