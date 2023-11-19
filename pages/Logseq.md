@@ -12,6 +12,15 @@ Tags:: #logseq #pkm #learning
 - ## Videos
 	- [OneStutteringMind Playlist](https://www.youtube.com/playlist?list=PLNnZ7rjaL84IFXUPf-XlSrusWgfnvV0ED)
 - ## Notes
+	- ### Installing Plugins
+	  id:: 655a678c-3457-4285-8390-d40ec1018315
+		- Plugins are managed using the toolbar at the top-right corner of the Logseq window
+			- ![image.png](../assets/image_1700423622763_0.png)
+			- Click the puzzle piece icon to access plugins and selecting "plugins"
+			- Plugins are available from the "Marketplace"
+				- ![image.png](../assets/image_1700423691293_0.png)
+				-
+			-
 	- ### Keyboard Shortcuts
 	  collapsed:: true
 		- New Line in Current Block #card
