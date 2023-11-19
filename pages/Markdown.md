@@ -37,5 +37,7 @@ Tags:: [[formatted text]] [[plain text]] [[logseq]]
 				- shift-enter then follow the convention `name:: value`
 			- Tags #card
 				- Prefix with `#` then tag name (does not render in view mode) e.g. `#tag`
+			- Highlight #card
+				- Wrap text with `==` e.g. ==highlighted text== ``==highlighted text==``
 - ## Flashcards
 	- {{cards [[Markdown]] }}

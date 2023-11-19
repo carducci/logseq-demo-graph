@@ -1,6 +1,7 @@
 # Books
 template:: Book Template
 template-including-parent:: false
+collapsed:: true
 	- ## Meta
 	  Type:: [/[Books]]
 	  Status:: [/[Reading]] [/[Read]] [/[books-to-read]]
@@ -18,6 +19,7 @@ template-including-parent:: false
 - # Project
   template:: Project Template
   template-including-parent:: false
+  collapsed:: true
 	- ## Meta
 	  Type:: [/[Project]]
 	  Status:: [/[Planned]] [/[Active]] [/[Completed]] [/[Archive]]
@@ -38,12 +40,14 @@ template-including-parent:: false
 - # Areas
   template:: Areas Template
   template-including-parent:: false
+  collapsed:: true
 	- ## Tasks
 		- {{query (and <% current page %> (task LATER) )}}
 	- ## Notes
 - # Resource
   template:: Resource Template
   template-including-parent:: false
+  collapsed:: true
 	- ## Meta
 	  Type:: [/[Resource]]
 	  Status:: [/[Active]] [/[Archive]]
@@ -58,9 +62,8 @@ template-including-parent:: false
 - # Team Member
   template:: Team Member Template
   template-including-parent:: false
-  collapsed:: true
 	- ## Meta
-	  Type:: [/[Teammember]]
+	  Type:: [/[Teammember]] [/[Person]]
 	  name::
 	  location::
 	  next-birthday:: 
@@ -126,7 +129,6 @@ template-including-parent:: false
 - # Weekly Journal Reflection
   template:: Weekly Review Template
   template-including-parent:: false
-  collapsed:: true
 	- ## Habit/Activity Tracking
 	- ## Summary of This Week's Notes
 		- ### Patterns
@@ -153,7 +155,6 @@ template-including-parent:: false
 - # Conference Talk Template
   template:: Conference Talk Template
   template-including-parent:: false
-  collapsed:: true
 	- ## Meta
 		- Type:: [/[Conference Talk]]
 		  title:: 

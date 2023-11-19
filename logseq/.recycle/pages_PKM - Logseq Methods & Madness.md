@@ -20,6 +20,7 @@
 	- ### Journaling
 		- #### What to Journal
 	- [[Building a Second Brain]]
+	- something
 	-
 	-
 -
