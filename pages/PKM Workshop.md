@@ -24,9 +24,12 @@ Tags:: [[PKM]]
 		- LATER Helium
 		- LATER logseq-pomodoro-timer
 - ## Tasks
+  collapsed:: true
 	- {{query (and [[PKM Workshop]] (task LATER))}}
 - ## Labs
 	- ### LATER Lab 2
-		-
+		- Navigate to [[Michael Carducci]]
+		- LATER duplicate this structure using raw markdown
+			- ![image.png](../assets/image_1700425053590_0.png)
 - ## Resources
 - ## Notes
