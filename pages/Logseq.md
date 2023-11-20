@@ -44,6 +44,12 @@ Tags:: #logseq #pkm #learning
 		- Select Parent Block #card
 			- ctrl-A
 		- Search pages and Blocks #card
+		  card-last-interval:: 4
+		  card-repeats:: 1
+		  card-ease-factor:: 2.6
+		  card-next-schedule:: 2023-11-24T01:07:47.879Z
+		  card-last-reviewed:: 2023-11-20T01:07:47.880Z
+		  card-last-score:: 5
 			- ctrl-K
 		- Search blocks in the current page #card
 			- ctrl-shift-k

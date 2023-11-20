@@ -24,8 +24,8 @@ Tags:: [[PKM]]
 		- LATER Helium
 		- LATER logseq-pomodoro-timer
 - ## Tasks
-  collapsed:: true
 	- {{query (and [[PKM Workshop]] (task LATER))}}
+	  collapsed:: true
 - ## Labs
 	- ### LATER Lab 2 (Markdown Practice)
 	  collapsed:: true
@@ -33,7 +33,6 @@ Tags:: [[PKM]]
 		- LATER duplicate this structure using raw markdown
 			- ![image.png](../assets/image_1700425053590_0.png)
 	- ### LATER Lab 3 (Managing Assets)
-	  collapsed:: true
 		- LATER Download Slide Deck [here](https://magician.codes/assets/pkm-workshop.pdf)
 		- LATER Upload asset under Resources on this page (using the `/upload an asset` command)
 		- LATER Capture one or more highlights between slide 1 and Slide 14 and add highlight to "notes" section, adding some context or take-aways from that content below the highlight
@@ -56,37 +55,43 @@ Tags:: [[PKM]]
 		- LATER Apply the Team Member template to each
 		- LATER Complete prompts for each team member
 	- ### LATER Lab 7 (Queries)
+	  collapsed:: true
 		- LATER Create page for People
 		- LATER Create a query for team members
 		- LATER Modify query properties
 		- LATER Add page to favorites (right-click on the page title)
 	- ### LATER Lab 8 (Books)
+	  collapsed:: true
 		- LATER Create 3 concrete instances of books you want to read
 		- LATER Create 3 concrete instances of books you've read
 		- LATER At at least one book you're currently reading
 		- LATER review [[Reading List]]
 	- ### LATER Lab 9 (Video)
+	  collapsed:: true
 		- LATER find an educational video you'd like to learn from in the future
 		- LATER embed the video in Logseq (Under a topic on your Daily Journal)
 		- LATER Try out helium
 		- LATER Embed a youtube timestamp
 	- ### LATER Lab 10 (flashcards)
+	  collapsed:: true
 		- LATER Review flashcards on [[logseq]]
 		- LATER Review flashcards on [[Markdown]]
 		- LATER Create a page for a topic you are interested in and create some flashcards
 		- LATER create a flashcard query on that page.
 	- ### LATER Lab 11 (Projects, Areas, Resources)
+	  collapsed:: true
 		- LATER Create stub project pages using template for current project
 		- LATER Create stub Areas using template for current areas
 		- LATER Create stub Resources using templates for current resources
 		- LATER Review PARA queries under Favorites
 	- ### LATER Lab 12 (Meetings)
-		- Create example meeting page using meeting template
-		- Add action items to the meeting under a project link
-		- Review project page for action items
-		- Create example 1:1 page using 1:1 template
-		- Add action items under a team member link
-		- Review team member tasks under the team member page
+	  collapsed:: true
+		- LATER Create example meeting page using meeting template
+		- LATER Add action items to the meeting under a project link
+		- LATER Review project page for action items
+		- LATER Create example 1:1 page using 1:1 template
+		- LATER Add action items under a team member link
+		- LATER Review team member tasks under the team member page
 - ## Resources
 	- [[Logseq]]
 	- [[Markdown]]
