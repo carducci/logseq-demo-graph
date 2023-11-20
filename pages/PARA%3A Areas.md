@@ -12,6 +12,10 @@
 		- etc.
 - ## Current
 	- {{query (and [[Area]] [[Active]] )}}
+	  query-table:: true
+	  query-properties:: [:page :tags]
 - ## Archive
 	- {{query (and [[Area]] [[Archive]] )}}
+	  query-table:: true
+	  query-properties:: [:page :tags]
 	-

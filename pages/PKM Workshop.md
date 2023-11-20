@@ -75,6 +75,18 @@ Tags:: [[PKM]]
 		- LATER Review flashcards on [[Markdown]]
 		- LATER Create a page for a topic you are interested in and create some flashcards
 		- LATER create a flashcard query on that page.
+	- ### LATER Lab 11 (Projects, Areas, Resources)
+		- LATER Create stub project pages using template for current project
+		- LATER Create stub Areas using template for current areas
+		- LATER Create stub Resources using templates for current resources
+		- LATER Review PARA queries under Favorites
+	- ### LATER Lab 12 (Meetings)
+		- Create example meeting page using meeting template
+		- Add action items to the meeting under a project link
+		- Review project page for action items
+		- Create example 1:1 page using 1:1 template
+		- Add action items under a team member link
+		- Review team member tasks under the team member page
 - ## Resources
 	- [[Logseq]]
 	- [[Markdown]]

@@ -19,7 +19,6 @@ collapsed:: true
 - # Project
   template:: Project Template
   template-including-parent:: false
-  collapsed:: true
 	- ## Meta
 	  Type:: [/[Project]]
 	  Status:: [/[Planned]] [/[Active]] [/[Completed]] [/[Archive]]
@@ -40,7 +39,11 @@ collapsed:: true
 - # Areas
   template:: Areas Template
   template-including-parent:: false
-  collapsed:: true
+	- ## Meta
+	  Type:: [/[Area]]
+	  Status:: [/[Active]] [/[Archive]]
+	  Team:: 
+	  Tags::
 	- ## Tasks
 		- {{query (and <% current page %> (task LATER) )}}
 	- ## Notes
