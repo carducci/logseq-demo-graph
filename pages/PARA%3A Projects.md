@@ -18,11 +18,11 @@
 	  query-table:: true
 	  query-properties:: [:page :start :end :tags]
 - ## Completed Projects
-	- {{query (and (property :type [[Project]]) (property :status [[Archive]]) )}}
+	- {{query (and (property :type [[Project]]) (property :status [[Completed]]) )}}
 	  query-table:: true
 	  query-properties:: [:page :start :end :tags]
 - ## Archive
-	- {{query (and [[Project]] [[Archive]] )}}
+	- {{query (and (property :type [[Project]]) (property :status [[Archive]]) )}}
 	  query-table:: true
 	  query-properties:: [:page :start :end :tags]
 - ## Not Categorized
