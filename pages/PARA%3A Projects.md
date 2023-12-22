@@ -10,18 +10,22 @@
 		- Etc.
 - ## Active Projects
   title:: PARA: Projects
-	- {{query (and [[Project]] [[Active]] )}}
+	- {{query (and (property :type [[Project]]) (property :status [[Active]]) )}}
 	  query-table:: true
 	  query-properties:: [:page :start :end :tags]
 - ## Upcoming Projects
-	- {{query (and [[Project]] [[Planned]] )}}
+	- {{query (and (property :type [[Project]]) (property :status [[Planned]]) )}}
 	  query-table:: true
 	  query-properties:: [:page :start :end :tags]
 - ## Completed Projects
-	- {{query (and [[Project]] [[Completed]] )}}
+	- {{query (and (property :type [[Project]]) (property :status [[Completed]]) )}}
 	  query-table:: true
 	  query-properties:: [:page :start :end :tags]
 - ## Archive
-	- {{query (and [[Project]] [[Archive]] )}}
+	- {{query (and (property :type [[Project]]) (property :status [[Archive]]) )}}
+	  query-table:: true
+	  query-properties:: [:page :start :end :tags]
+- ## Not Categorized
+	- {{query (and (property :type [[Project]]) (not (property :status [[Planned]])) (not (property :status [[Active]])) (not (property :status [[Completed]])) (not (property :status [[Archive]])) )}}
 	  query-table:: true
 	  query-properties:: [:page :start :end :tags]
