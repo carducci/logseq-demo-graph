@@ -4,8 +4,8 @@ Status:: [/[Planned]] [[Active]] [/[Completed]] [/[Archive]]
 Team:: 
 Lead:: 
 Goals:: Learn the basics of Logseq and PKM practices 
-Start:: [[Nov 20th, 2023]] 
-End:: [[Nov 20th, 2023]] 
+Start:: [[Feb 5th, 2024]] 
+End:: [[Feb 5th, 2024]] 
 areas:: 
 Tags:: [[PKM]]
 - ## Objective
