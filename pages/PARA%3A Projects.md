@@ -1,5 +1,5 @@
 ## About
-	- According to the [[Building a Second Brain]] methodology by [[Tiago Forte]], Projects are *buckets of goal-oriented tasks with fixed deadlines.*
+	- According to the [[Book/Building a Second Brain]] methodology by [[Tiago Forte]], Projects are *buckets of goal-oriented tasks with fixed deadlines.*
 	- Organize these by time-bound projects. Once these particular projects are complete no longer relevant to you, change the status to Archive. Examples of projects are:
 		- The current stories you are implementing
 		- Operational incidents you are working

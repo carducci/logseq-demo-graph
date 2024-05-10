@@ -1,16 +1,17 @@
 ## Meta
 Type:: [[Books]]
-Status:: [[Books-To-Read]] 
+Status:: [[Books-To-Read]]
 Cover:: ![image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652891488l/59616977.jpg){:height 172, :width 98}
 Title:: Building a second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Protential
-Author:: [[Tiago Forte]] 
+Author:: [[Tiago Forte]]
 Link:: [Goodreads](https://www.goodreads.com/book/show/59616977-building-a-second-brain)
-Start:: [[Dec 11th, 2022]] 
-End:: [[Dec 11th, 2022]] 
-Year:: [[2022]] 
-Genre:: [[non-fiction]] 
-Format:: [[Kindle]] 
+Start:: [[Dec 11th, 2022]]
+End:: [[Dec 11th, 2022]]
+Year:: [[2022]]
+Genre:: [[non-fiction]]
+Format:: [[Kindle]]
 Tags:: #PKM #PKI #Logseq
+title:: Book/Building a Second Brain
 - ## Content
   collapsed:: true
 	- Notes for logseq talk

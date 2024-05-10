@@ -1,5 +1,5 @@
 ## About
-	- According to the [[Building a Second Brain]] methodology by [[Tiago Forte]], Areas are *buckets of ongoing activity with expected quality standards.*
+	- According to the [[Book/Building a Second Brain]] methodology by [[Tiago Forte]], Areas are *buckets of ongoing activity with expected quality standards.*
 	- Organize these based on what is relevant to your ongoing work. Once these particular areas are no longer relevant to you, change the status to Archive. Examples of areas are:
 		- Relationships with your manager, peers, partners, friends
 		- Your professional development and an engineer or architect

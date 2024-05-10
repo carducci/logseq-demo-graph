@@ -2,9 +2,10 @@
 Type:: [[Resource]]
 Status:: [[Active]] [/[Archive]]
 Description:: Logseq Knowledge Resource
-Tags:: #logseq #pkm #learning
+Tags:: #Logseq #pkm #learning
+title:: Logseq
 - ## Books
-	- [[Building a Second Brain]]
+	- [[Book/Building a Second Brain]]
 - ## Web Resources
 	- [Carducci's Example Graph](https://github.com/carducci/logseq-demo-graph)
 	- [Building A Second Brain Foundation Course](https://building-a-second-brain.circle.so/checkout/building-a-second-brain-foundation?via=matt)

@@ -1,7 +1,6 @@
 # Books
 template:: Book Template
 template-including-parent:: false
-collapsed:: true
 	- ## Meta
 	  Type:: [/[Books]]
 	  Status:: [/[Reading]] [/[Read]] [/[books-to-read]]
