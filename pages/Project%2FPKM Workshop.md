@@ -4,8 +4,8 @@ Status:: [/[Planned]] [[Active]] [/[Completed]] [/[Archive]]
 Team:: 
 Lead:: 
 Goals:: Learn the basics of Logseq and PKM practices 
-Start:: [[Jul 16th, 2024]] 
-End:: [[Jul 16th, 2024]]  
+Start:: [[Aug 14th, 2024]] 
+End:: [[Aug 14th, 2024]] 
 areas:: 
 Tags:: [[PKM]]
 - ## Objective
@@ -18,7 +18,7 @@ Tags:: [[PKM]]
 - ## Tasks
 	- query-table:: false
 - ## Labs
-	- ### LATER Lab 2 (Markdown Practice) [[Jul 16th, 2024]]
+	- ### LATER Lab 2 (Markdown Practice) [[Aug 14th, 2024]]
 		- Navigate to [[Michael Carducci]]
 		- LATER duplicate this structure using raw markdown
 			- ![image.png](../assets/image_1700425053590_0.png)
