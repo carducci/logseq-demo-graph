@@ -1,11 +1,11 @@
-## Meta
+## TODO Meta
 Type:: [[Project]]
 Status:: [/[Planned]] [[Active]] [/[Completed]] [/[Archive]]
 Team:: 
 Lead:: 
 Goals:: Learn the basics of Logseq and PKM practices 
-Start:: [[Feb 5th, 2024]] 
-End:: [[Feb 5th, 2024]] 
+Start:: [[Dec 20th, 2024]] 
+End:: [[Dec 20th, 2024]] 
 areas:: 
 Tags:: [[PKM]]
 - ## Objective
