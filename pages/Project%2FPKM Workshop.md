@@ -4,8 +4,8 @@ Status:: [/[Planned]] [[Active]] [/[Completed]] [/[Archive]]
 Team:: 
 Lead:: 
 Goals:: Learn the basics of Logseq and PKM practices 
-Start:: [[Dec 20th, 2024]] 
-End:: [[Dec 20th, 2024]] 
+Start:: [[Mar 31st, 2025]] 
+End:: [[Mar 31st, 2025]] 
 Workshop.md
 areas:: 
 Tags:: [[PKM]]
@@ -19,7 +19,7 @@ Tags:: [[PKM]]
 - ## Tasks
 	- query-table:: false
 - ## Labs
-	- ### LATER Lab 2 (Markdown Practice) [[Aug 14th, 2024]]
+	- ### LATER Lab 2 (Markdown Practice)
 		- Navigate to [[Michael Carducci]]
 		- LATER duplicate this structure using raw markdown
 			- ![image.png](../assets/image_1700425053590_0.png)
@@ -74,18 +74,18 @@ Tags:: [[PKM]]
 		- LATER Create 3 concrete instances of books you've read
 		- LATER At at least one book you're currently reading
 		- LATER review [[Reading List]]
-	- ### LATER Lab 12 (flashcards)
+	- ### LATER Lab 11 (flashcards)
 	  collapsed:: true
 		- LATER Review flashcards on [[logseq]]
 		- LATER Review flashcards on [[Markdown]]
 		- LATER Create a page for a topic you are interested in and create some flashcards
 		- LATER create a flashcard query on that page.
-	- ### LATER Lab 13 (Team Members)
+	- ### LATER Lab 12 (Team Members)
 		- LATER Create a new page for each member of your team and your Manager
 		- LATER Apply the Team Member template to each
 		- LATER Complete prompts for each team member
 		- LATER Review team member tasks under the team member page
-	- ### LATER Lab 14 (Queries)
+	- ### LATER Lab 13 (Queries)
 		- LATER Create page for People
 		- LATER Create a query for team members
 		- LATER Modify query properties
