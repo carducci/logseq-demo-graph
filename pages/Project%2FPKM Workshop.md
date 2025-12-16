@@ -4,8 +4,8 @@ Status:: [/[Planned]] [[Active]] [/[Completed]] [/[Archive]]
 Team:: 
 Lead:: 
 Goals:: Learn the basics of Logseq and PKM practices 
-Start:: [[Mar 31st, 2025]] 
-End:: [[Mar 31st, 2025]] 
+Start:: [[Dec 16th, 2025]] 
+End:: [[Dec 16th, 2025]] 
 Workshop.md
 areas:: 
 Tags:: [[PKM]]
